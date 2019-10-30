@@ -26,7 +26,7 @@
 		<sonar.login>a15cd0352d9c80d75beebe58f7b8503bdc31563a</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-
+             5ba9a7431b0ba53c1600c8471b413ae1649547c3    
 	</properties>
 
 	<dependencies>
